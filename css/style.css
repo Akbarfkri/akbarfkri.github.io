@@ -1,0 +1,62 @@
+body {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.jumbotron {
+    background-image: url(../img/landingpage.jpg);
+    width: 100%;
+    height: 960px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.jumbotron-fluid {
+    margin-top: -70px;
+}
+
+.tulisan {
+    padding-top: 350px;
+    padding-left:  200px;
+}
+
+.jumbotron .containergambar .tulisan .tagline {
+    font-size: 65px;
+}
+
+
+
+.registrasi {
+    width: 500px;
+    background-color: rgba(117, 108, 108,0.5);
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    color: white;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.registrasi h3 {
+    text-align: center;
+}
+
+.form-text {
+    color: whitesmoke;
+}
+
+
+.register {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.createaccount {
+    margin: auto;
+}
+
+
